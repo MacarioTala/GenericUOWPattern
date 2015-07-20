@@ -1,0 +1,13 @@
+C:\programming\Moq\MoqDemo\MoqDemo\bin\Debug\MoqDemo.dll
+C:\programming\Moq\MoqDemo\MoqDemo\bin\Debug\MoqDemo.pdb
+C:\programming\Moq\MoqDemo\MoqDemo\bin\Debug\Moq.dll
+C:\programming\Moq\MoqDemo\MoqDemo\bin\Debug\Moq.xml
+C:\programming\Moq\MoqDemo\MoqDemo\obj\Debug\MoqDemo.dll
+C:\programming\Moq\MoqDemo\MoqDemo\obj\Debug\MoqDemo.pdb
+C:\programming\Moq\MoqDemo\MoqDemo\bin\Debug\FluentNHibernate.dll
+C:\programming\Moq\MoqDemo\MoqDemo\bin\Debug\Iesi.Collections.dll
+C:\programming\Moq\MoqDemo\MoqDemo\bin\Debug\NHibernate.dll
+C:\programming\Moq\MoqDemo\MoqDemo\bin\Debug\FluentNHibernate.pdb
+C:\programming\Moq\MoqDemo\MoqDemo\bin\Debug\FluentNHibernate.xml
+C:\programming\Moq\MoqDemo\MoqDemo\bin\Debug\Iesi.Collections.xml
+C:\programming\Moq\MoqDemo\MoqDemo\bin\Debug\NHibernate.xml
