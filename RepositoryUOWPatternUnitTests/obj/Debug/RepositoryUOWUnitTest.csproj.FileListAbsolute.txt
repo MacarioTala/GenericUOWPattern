@@ -1,0 +1,10 @@
+C:\programming\Moq\MoqDemo\MoqDemoUnitTest\bin\Debug\MoqDemoUnitTest.dll
+C:\programming\Moq\MoqDemo\MoqDemoUnitTest\bin\Debug\MoqDemoUnitTest.pdb
+C:\programming\Moq\MoqDemo\MoqDemoUnitTest\obj\Debug\RepositoryUOWUnitTest.csprojResolveAssemblyReference.cache
+C:\programming\Moq\MoqDemo\MoqDemoUnitTest\obj\Debug\MoqDemoUnitTest.dll
+C:\programming\Moq\MoqDemo\MoqDemoUnitTest\obj\Debug\MoqDemoUnitTest.pdb
+C:\programming\Moq\RepositoryUOWPattern\RepositoryUOWPatternUnitTests\bin\Debug\MoqDemoUnitTest.dll
+C:\programming\Moq\RepositoryUOWPattern\RepositoryUOWPatternUnitTests\bin\Debug\MoqDemoUnitTest.pdb
+C:\programming\Moq\RepositoryUOWPattern\RepositoryUOWPatternUnitTests\obj\Debug\RepositoryUOWUnitTest.csprojResolveAssemblyReference.cache
+C:\programming\Moq\RepositoryUOWPattern\RepositoryUOWPatternUnitTests\obj\Debug\MoqDemoUnitTest.dll
+C:\programming\Moq\RepositoryUOWPattern\RepositoryUOWPatternUnitTests\obj\Debug\MoqDemoUnitTest.pdb
